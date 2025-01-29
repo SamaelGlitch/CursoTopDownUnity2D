@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CursoTopDown.sln"
+    "dotnet.defaultSolution": "CursoTopDownUnity2D.sln"
 }
